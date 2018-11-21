@@ -1,0 +1,39 @@
+ <HTML>
+<HEAD>
+<TITLE>kinder</TITLE>
+</HEAD>
+<BODY BACKGROUND="./fondo2.jpg">
+<TABLE ALIGN=CENTER BORDER=1><TR><TD ALIGN=CENTER>
+<H1><font color="#00FF00">CAMINO A LA ESCUELA</H1> 
+</TD></TR>
+<TR><TD>
+</CENTER><IMG SRC="./animacion de.gif" ></CENTER>
+</TD></TR>
+<img src="./jpg"
+<p> como hacer una escuela</p>
+<p>Iniciar una escuela privada constituye un proceso de largo plazo que, por lo general, toma 2 años, como mínimo. Las escuelas privadas no son administradas por el estado y ofrecen una educación de buena calidad. Si inicias una escuela privada, brindarás un servicio valioso a las familias de tu comunidad que tengan hijos. Para empezar, debes abordar las preguntas de planificación relativas al panorama general en torno a la creación de una escuela, y luego pasar a la contratación de profesorado y personal y el reclutamiento de estudiantes. </p>
+<p>Determina si es que será una escuela con o sin ánimo de lucro. Debes determinarlo antes de tomar decisiones sobre cualquier otro aspecto académico de la escuela. Las escuelas sin ánimo de lucro se encuentran bajo la administración de una junta directiva, en tanto que las escuelas con ánimo de lucro se encuentran bajo la supervisión de un propietario (posiblemente tú mismo) o una asociación empresarial o sociedad de responsabilidad limitada (SRL). No hay una estructura que sea mejor que la otra. Tan solo depende de ti tomar la decisión en cuanto a la forma como quieras administrar y financiar la escuela.[1]
+
+    En caso de que optes por dirigir una escuela privada sin ánimo de lucro, lo siguiente que debes hacer es presentar una solicitud para obtener un estatus "sin ánimo de lucro" en el lugar en donde vivas.
+ </p>
+<p>  
+Reúne un comité para la escuela privada en caso de que sea una escuela sin ánimo de lucro. Este comité trabajará en conjunto para tomar decisiones fundamentales en cuanto al futuro de la escuela, así como también para elegir una ubicación para el campus y contratar profesorado. A la larga, los miembros pasarán a ser los miembros principales de la junta directiva. Los miembros del comité deben ser expertos en distintas áreas, entre ellas la educación, el ámbito jurídico, la contabilidad, los negocios y la construcción.[2]
+
+    En caso de que no estés seguro en cuanto a quién pedir que forme parte de tu comité, puedes ponerte en contacto con otras escuelas privadas en tu localidad. Conversa con los miembros de la administración para averiguar a quiénes usaron estas escuelas como miembros para su comité.
+
+</p> 
+<p> Determina si quieres administrar una escuela diurna o un internado. Las escuelas diurnas funcionan como escuelas públicas regulares, en las que los estudiantes regresan a casa después de una jornada de 6 o 7 horas, en tanto que los internados albergan a los estudiantes durante la noche. Por lo general, los estudiantes en los internados permanecen en la escuela durante todo el semestre. Si bien los internados requieren una mayor contribución financiera y trabajo, los estudiantes tienden a involucrarse profundamente con sus comunidades y forjar vínculos profesionales estrechos con sus profesores.[3]
+
+    Otra opción es considerar una escuela con el método Montessori. Las escuelas de este tipo casi siempre son privadas y les brindan a los estudiantes un modelo de experimentación y aprendizaje académicos basado en el descubrimiento.
+
+ </p>
+<p> Busca un edificio para albergar tu escuela privada. Planifica alquilar un edificio en tu comunidad que tenga el tamaño suficiente (y que esté lo suficientemente en buen estado) para albergar a los estudiantes.[5] Busca en las zonas residenciales o semiresidenciales dentro de la comunidad en donde quieras que esté ubicada la escuela. En caso de que no haya actualmente edificios escolares libres, puedes conversar con urbanistas o agentes de bienes raíces comerciales que podrían saber de algún edificio escolar viable.
+
+    No debes hacer planes para construir un edificio nuevo para la escuela a menos que cuentes con un presupuesto operativo enorme.
+
+ </p>
+
+<img src="./salon.jpg"  height="200" width:"100" >
+<img src="./salon1.jpg"  height="200" width:"100" >
+</BODY>
+</HTML>
